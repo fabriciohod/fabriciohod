@@ -7,4 +7,6 @@ export default Fabricio =
       i study web and mobile development, currently I'm focusing on React, React Native and TypeScript.`
 }
 ```
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriciohod&show_icons=true&theme=tokyonight)
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=fabriciohod>&theme=<THEME_NAME>" />
+
