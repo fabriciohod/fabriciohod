@@ -13,7 +13,3 @@ export default Fabricio =
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciohod&theme=tokyonight" />
 </a>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriciohod&show_icons=true&theme=tokyonight) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciohod&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight)
-
