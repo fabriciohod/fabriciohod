@@ -29,8 +29,8 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 [2]: https://www.linkedin.com/in/fabricio-duarte-4bbb581a8/
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/fabriciohod?style=social)](https://twitter.com/fabriciohod)
-[![Linkedin: fabricio](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabricio-duarte-4bbb581a8/)])
-[![Twitch: loianegroner](https://img.shields.io/badge/-Twitch-blueviolet?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/fahod_br)](https://www.twitch.tv/fahod_br)
+[![Linkedin: fabricio](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabricio-duarte-4bbb581a8/)](https://www.linkedin.com/in/fabricio-duarte-4bbb581a8/)
+[![Twitch: fahod_br](https://img.shields.io/badge/-Twitch-blueviolet?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/fahod_br)](https://www.twitch.tv/fahod_br)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=typescript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
