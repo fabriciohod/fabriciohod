@@ -27,12 +27,6 @@ export default Fabricio =
      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
    </a>
    
-   <a href="https://www.twitch.tv/fahod_br">
-     <img src="https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white" />
-   </a>
-    <a href="#">
-     <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black&labelColor=black"/>
-   
    </a>
    <a href="https://www.twitch.tv/fahod_br">
      <img src="https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white" />
