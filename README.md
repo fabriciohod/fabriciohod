@@ -24,16 +24,14 @@ export default Fabricio =
    </a>
    
    <a href="https://www.linkedin.com/in/fabricio-duarte-4bbb581a8/">
-     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
    </a>
    
-   
+   <a href="https://www.twitch.tv/fahod_br">
+     <img src="https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white" />
+   </a>
 </p>
 
-
-[![Linkedin: fabricio](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabricio-duarte-4bbb581a8/)](https://www.linkedin.com/in/fabricio-duarte-4bbb581a8/)
-
-[![Twitch: fahod_br](https://img.shields.io/badge/-Twitch-blueviolet?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/fahod_br)](https://www.twitch.tv/fahod_br)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
