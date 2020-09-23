@@ -14,6 +14,7 @@ export default Fabricio =
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciohod&theme=tokyonight" />
 </a>
 
+<a href=https://www.instagram.com/fabriciohod/?hl=pt-br><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" link=https://www.instagram.com/fabriciohod/?hl=pt-br /></a>
 [![Twitter Follow](https://img.shields.io/twitter/follow/fabriciohod?style=social)](https://twitter.com/fabriciohod)
 [![Linkedin: fabricio](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabricio-duarte-4bbb581a8/)](https://www.linkedin.com/in/fabricio-duarte-4bbb581a8/)
 [![Twitch: fahod_br](https://img.shields.io/badge/-Twitch-blueviolet?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/fahod_br)](https://www.twitch.tv/fahod_br)
