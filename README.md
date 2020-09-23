@@ -18,9 +18,17 @@ export default Fabricio =
    <a href="https://www.instagram.com/fabriciohod/?hl=pt-br">
      <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
    </a>
+   
+   <a href="https://twitter.com/fabriciohod">
+     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+   </a>
+   
+    <a href="https://www.linkedin.com/in/fabricio-duarte-4bbb581a8/">
+     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+   </a>
+   
 </p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/fabriciohod?style=social)](https://twitter.com/fabriciohod)
 
 [![Linkedin: fabricio](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabricio-duarte-4bbb581a8/)](https://www.linkedin.com/in/fabricio-duarte-4bbb581a8/)
 
