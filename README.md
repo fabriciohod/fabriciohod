@@ -14,20 +14,6 @@ export default Fabricio =
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciohod&theme=tokyonight" />
 </a>
 
-<!-- Actual text -->
-
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
-
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/fabriciohod
-[2]: https://www.linkedin.com/in/fabricio-duarte-4bbb581a8/
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/fabriciohod?style=social)](https://twitter.com/fabriciohod)
 [![Linkedin: fabricio](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabricio-duarte-4bbb581a8/)](https://www.linkedin.com/in/fabricio-duarte-4bbb581a8/)
 [![Twitch: fahod_br](https://img.shields.io/badge/-Twitch-blueviolet?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/fahod_br)](https://www.twitch.tv/fahod_br)
