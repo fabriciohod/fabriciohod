@@ -23,9 +23,10 @@ export default Fabricio =
      <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
    </a>
    
-    <a href="https://www.linkedin.com/in/fabricio-duarte-4bbb581a8/">
+   <a href="https://www.linkedin.com/in/fabricio-duarte-4bbb581a8/">
      <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
    </a>
+   
    
 </p>
 
