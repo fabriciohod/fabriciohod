@@ -16,7 +16,7 @@ export default Fabricio =
 
 
 <a href="https://www.instagram.com/fabriciohod/?hl=pt-br">
-  <img align="block" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 [![Twitter Follow](https://img.shields.io/twitter/follow/fabriciohod?style=social)](https://twitter.com/fabriciohod)
 
