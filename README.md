@@ -13,7 +13,7 @@ export default Fabricio =
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciohod&theme=tokyonight" />
 </a>
-[![Instagran: fabriciohod](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)]
+![Instagran: fabriciohod](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/fabriciohod?style=social)](https://twitter.com/fabriciohod)
 
