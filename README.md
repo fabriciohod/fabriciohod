@@ -61,4 +61,8 @@ export default Fabricio =
    <a href="#">
      <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
    </a>
+   
+   <a href="https://discordapp.com/users/235815986106859521">
+     <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
+   </a>
 </p>
