@@ -1,23 +1,18 @@
-```js
+<div align="center">
+   
+[![GitHub Streak](https://streak-stats.demolab.com?user=fabriciohod&theme=onedark)](https://git.io/streak-stats)
+   
+</div>
+
+```ts
 export default Fabricio = 
 {
    interests: ["UnityEngine", "WebDev", "MobileDev", "Programming", "Technology"],
 
-   description: "I study game dev at college and in me free time, 
-      i study web and mobile development, currently I'm focusing on React, React Native and TypeScript."
+   description: "Hi. I'm primarily a Unity game programmer, but I have experience doing visual effects and working 
+   with Shader (Shader Graph and HLSL). Besides game dev, I have some knowledge about web and mobile dev"
 }
 ```
-<p align="center">
-   <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img align="center" src="https://github-readme-stats.vercel.app/api?username=fabriciohod&show_icons=true&theme=tokyonight" />
-   </a>
-   <span>&nbsp</span>
-   <a href="https://github.com/anuraghazra/convoychat">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciohod&theme=tokyonight" />
-   </a>
-</p>
-<p></p>
-
 <p align="center">
    <a href="https://www.instagram.com/fabriciohod/?hl=pt-br">
      <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
