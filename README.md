@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=fabriciohod&style=flat-square)
 
-<img align="left" src="./Resources/Card.png" height="590em" style="margin-right: 15px"/>
+<img align="left" src="./Resources/Card.png" height="420em" style="margin-right: 15px"/>
 
 <div align="left">
    
@@ -12,11 +12,12 @@
   {
     interests: ["UnityEngine", "WebDev", "MobileDev", "Programming", "Technology"],
 
-    description: "Hi. I'm primarily a Unity game programmer, but I have experience doing visual effects and working 
-    with Shader (Shader Graph and HLSL). Besides game dev, I have some knowledge about web and mobile dev"
+    description: "Hi. I'm primarily a Unity game programmer, 
+      but I have experience doing visual effects and working 
+      with Shader (Shader Graph and HLSL). Besides game dev, 
+      I have some knowledge about web and mobile dev"
   }
   ```
-  <div style="display: flex; flex-direction: column">
   
   ## language's
    ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -37,24 +38,9 @@
   
 
   ## Socials
-  <div style="display: flex; gap: 2px">
-  <a href="https://www.linkedin.com/in/fabriciohoddev/">
-  
-  ![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-  
-  <a/>
-  <a href="https://twitter.com/fabriciohod">
-
-  ![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
-  
-  <a/>
-
-
-  <a href="https://www.twitch.tv/coffeesandev">
-  
-  ![twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)
-
-  <a/>
-  <div/>
-
+  <div style="display: inline-block">
+  <a href="https://www.linkedin.com/in/fabriciohoddev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a>
+  <a href="https://twitter.com/fabriciohod"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/><a/>
+  <a href="https://www.twitch.tv/coffeesandev"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/><a/>
+ 
   <div/>
