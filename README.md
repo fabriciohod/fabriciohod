@@ -1,11 +1,8 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=fabriciohod&theme=catppuccin-mocha&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)
-
 <img align="left" src="./Resources/Card.png" height="420em" style="margin-right: 15px"/>
 
 <div align="left">
    
-  [![GitHub Streak](https://streak-stats.demolab.com?user=fabriciohod&theme=onedark)](https://git.io/streak-stats)
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=fabriciohod&theme=catppuccin-mocha&mode=weekly&hide_longest_streak=true" alt="GitHub Streak" /></a>
 
   ```ts
   export default Fabricio = 
