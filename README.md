@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=fabriciohod&style=flat-square)
+[![GitHub Streak](https://streak-stats.demolab.com?user=fabriciohod&theme=catppuccin-mocha&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)
 
 <img align="left" src="./Resources/Card.png" height="420em" style="margin-right: 15px"/>
 
