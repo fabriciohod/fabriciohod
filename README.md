@@ -2,7 +2,7 @@
 
 <div align="left">
    
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=fabriciohod&theme=catppuccin-mocha&mode=weekly&hide_longest_streak=true" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=fabriciohod&theme=catppuccin-mocha&mode=weekly)](https://git.io/streak-stats)
 
   ```ts
   export default Fabricio = 
