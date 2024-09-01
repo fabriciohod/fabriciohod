@@ -4,10 +4,9 @@
 
   ```toml
 
-nome= "Fabrício"
-profession= "Tech Artist and Programmer"
-interests=["Tech", "Game Developing", "TRPG", "Anime", "FPS Games"]
-description="Experienced Game Developer and Programmer skilled in Unity, C#, JavaScript, TypeScript,
+profession = "Tech Artist and Programmer"
+interests = ["Tech", "Game Developing", "TRPG", "Anime", "FPS Games"]
+description = "Experienced Game Developer and Programmer skilled in Unity, C#, JavaScript, TypeScript,
 and more. With a strong background in technical art and VFX,
 I am passionate about creating engaging and immersive games that bring joy to players.
 As a mentor, I enjoy sharing my knowledge and helping others learn game development and programming principles.
