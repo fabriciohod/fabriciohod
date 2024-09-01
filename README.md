@@ -1,19 +1,13 @@
-<img align="left" src="./Resources/Card.png" height="420em" style="margin-right: 15px"/>
-
 <div align="left">
    
 [![GitHub Streak](https://streak-stats.demolab.com?user=fabriciohod&theme=catppuccin-mocha&mode=weekly)](https://git.io/streak-stats)
 
-  ```ts
-  export default Fabricio = 
-  {
-    interests: ["UnityEngine", "WebDev", "MobileDev", "Programming", "Technology"],
+  ```toml
 
-    description: "Hi. I'm primarily a Unity game programmer, 
-      but I have experience doing visual effects and working 
-      with Shader (Shader Graph and HLSL). Besides game dev, 
-      I have some knowledge about web and mobile dev"
-  }
+nome= "Fabrício"
+profession= "Tech Artist and Programmer"
+interests=["Tech", "Game Developing", "TRPG", "Anime", "FPS Games"]
+description="Experienced Game Developer and Programmer skilled in Unity, C#, JavaScript, TypeScript, and more. With a strong background in technical art and VFX, I am passionate about creating engaging and immersive games that bring joy to players. As a mentor, I enjoy sharing my knowledge and helping others learn game development and programming principles. Let's connect and collaborate on innovative projects that push the boundaries of gaming."
   ```
   
   ## language's
